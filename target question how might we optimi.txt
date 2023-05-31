@@ -1,0 +1,9 @@
+target question: how might we optimize the usage of ischool+campus resources and help students develop and accomplish their professional goals?
+target users: information science students
+
+specific users groups: 
+info sci students who are looking to do 'research' to further education.
+info sci students who are looking to complete their major and get a job. -
+info sci students who are looking for groups to be a part of in their major. +
+info sci students who are looking for more information on their courses. these students are trying to develop hard skills but the course summary does not give enough information. - 
+
